@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536430252 source:c:\users\celso\desktop\celso\faculdade- ifce\s6\semb\pixelaveraging\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
